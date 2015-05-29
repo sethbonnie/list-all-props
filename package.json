@@ -1,6 +1,6 @@
 {
   "name": "list-all-props",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "List all the properties of a JavaScript object, including those on the [[Prototype]] chain.",
   "main": "index.js",
   "scripts": {
